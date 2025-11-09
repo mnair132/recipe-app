@@ -67,7 +67,7 @@
     "name": "Sambar",
     "description": "Traditional South Indian lentil and vegetable curry with tamarind.",
     "category": "Veg",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Sambar.jpg",
+    "image": "mn25sur.jpg",
     "ingredients": ["Toor dal", "Tamarind", "Vegetables", "Sambar powder"],
     "instructions": "Cook dal, add vegetables and tamarind water, simmer with sambar powder."
   },
